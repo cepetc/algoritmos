@@ -7,7 +7,7 @@ main(){
 	scanf("%d",&num2);
 	idade1=(num1*num1);
 	idade2=num2/num2;
-	printf("\n a primeira idade tera:");
+	printf("\n a primeira idade tera:%d%d");
 	
 	
 	
