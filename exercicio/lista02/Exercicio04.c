@@ -3,21 +3,21 @@ main()
 {
 	float numero1, numero2, numero3, media;
 	 
-	 // Captura o primeiro número.
+	 // Captura o primeiro nï¿½mero.
 	 printf("Informe o primeiro numero: \n");
 	 scanf("%f",&numero1);
 	 
-	 // Captura o segundo número.
+	 // Captura o segundo nï¿½mero.
 	 printf("Informe o segundo numero: \n");
 	 scanf("%f",&numero2);
 	 
-	 // Captura o terceiro número.
+	 // Captura o terceiro nï¿½mero.
 	 printf("Informe o terceiro numero: \n");
 	 scanf("%f",&numero3);
 	 
 	 media = (numero1 + numero2 + numero3) / 3;
 	 
-	 // Impressão do resultado da média	 
+	 // Impressï¿½o do resultado da mï¿½dia	 
 	 printf("Resultado: %.2f\n", media);
 	 
 	 
