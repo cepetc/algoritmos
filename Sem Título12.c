@@ -1,15 +1,14 @@
+//Construa um algoritmo que escreva os divisíveis por X de 300 a 200. Onde o valor de X será fornecido pelo usuário.
+
 #include<stdio.h>
 main(){
-	int numero, x;
-	char ch;
-	printf("digite um valor:");
-	scanf("%c",&x);
-	for(numero=300;;numero++)
-	{	
-	scanf("%c",&ch);	
-	if(ch*x)break;
-	else 
-	printf("\ncalor: %c\n",ch);
-}	
+	int x, num;
+	printf("digite um numero");
+	scanf("%d",&num);
+	for(x=300;x>=200;x--)
+	{
+		if(x%num==0)
+		printf("\nresoluçao: %d",x);
+	}
 	return(0);
 }
