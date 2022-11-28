@@ -1,3 +1,5 @@
+// Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual. Calcule e imprima a idade dessa pessoa.
+
 #include<stdio.h>
 main()
 {

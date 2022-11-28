@@ -1,1 +1,8 @@
+# Comentário.
+.idea/
+.vscode/
+
+# Comentário.
 *.exe
+*.iml
+*.log
