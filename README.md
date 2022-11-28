@@ -1,2 +1,2 @@
-# algoritmos
-Técnico em Informática - Lógica e Linguagem de Programação
+# Técnico em Informática - Lógica e Linguagem de Programação
+
